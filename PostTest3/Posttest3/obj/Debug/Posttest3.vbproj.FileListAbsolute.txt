@@ -1,0 +1,5 @@
+D:\MANTEP\Posttest3\Posttest3\bin\Debug\Posttest3.exe.config
+D:\MANTEP\Posttest3\Posttest3\obj\Debug\Posttest3.FormCetak.resources
+D:\MANTEP\Posttest3\Posttest3\obj\Debug\Posttest3.Resources.resources
+D:\MANTEP\Posttest3\Posttest3\obj\Debug\Posttest3.vbproj.GenerateResource.Cache
+D:\MANTEP\Posttest3\Posttest3\obj\Debug\Posttest3.Form1.resources
